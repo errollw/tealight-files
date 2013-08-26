@@ -6,7 +6,7 @@ from tealight.logo import (move, turn,
 
 print "This is logo mode!"
 
-colors = ["red", "blue", "green", "pink"]
+colors = ["red", "blue", "green", "pink", "purple"]
 
 for i in range(10,200,5):
   move(i)
